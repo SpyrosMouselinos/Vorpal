@@ -1,0 +1,2112 @@
+{
+  "Factory Assembly Lines & Production Floors": {
+    "subcategory_id": 1,
+    "category_id": 1,
+    "category_key": "industry_manufacturing"
+  },
+  "Construction Sites with Heavy Machinery": {
+    "subcategory_id": 2,
+    "category_id": 1,
+    "category_key": "industry_manufacturing"
+  },
+  "Mining Operations & Quarries": {
+    "subcategory_id": 3,
+    "category_id": 1,
+    "category_key": "industry_manufacturing"
+  },
+  "Oil Rigs & Refinery Plants": {
+    "subcategory_id": 4,
+    "category_id": 1,
+    "category_key": "industry_manufacturing"
+  },
+  "Robotic Assembly & Automated Factories": {
+    "subcategory_id": 5,
+    "category_id": 1,
+    "category_key": "industry_manufacturing"
+  },
+  "Welding Workshops & Metal Forging": {
+    "subcategory_id": 6,
+    "category_id": 1,
+    "category_key": "industry_manufacturing"
+  },
+  "Warehouse Logistics & Shipping Centers": {
+    "subcategory_id": 7,
+    "category_id": 1,
+    "category_key": "industry_manufacturing"
+  },
+  "Power Plants & Energy Facilities": {
+    "subcategory_id": 8,
+    "category_id": 1,
+    "category_key": "industry_manufacturing"
+  },
+  "Textile Mills & Clothing Factories": {
+    "subcategory_id": 9,
+    "category_id": 1,
+    "category_key": "industry_manufacturing"
+  },
+  "Automotive Assembly Plants": {
+    "subcategory_id": 10,
+    "category_id": 1,
+    "category_key": "industry_manufacturing"
+  },
+  "Woodworking & Carpentry": {
+    "subcategory_id": 11,
+    "category_id": 1,
+    "category_key": "industry_manufacturing"
+  },
+  "Tropical Rainforests & Jungle Wildlife": {
+    "subcategory_id": 12,
+    "category_id": 2,
+    "category_key": "nature_wildlife"
+  },
+  "Savannah Safaris & Grassland Animals": {
+    "subcategory_id": 13,
+    "category_id": 2,
+    "category_key": "nature_wildlife"
+  },
+  "Mountain Forests & Highland Wildlife": {
+    "subcategory_id": 14,
+    "category_id": 2,
+    "category_key": "nature_wildlife"
+  },
+  "Desert Landscapes & Dune Wildlife": {
+    "subcategory_id": 15,
+    "category_id": 2,
+    "category_key": "nature_wildlife"
+  },
+  "Polar Regions & Arctic Wildlife": {
+    "subcategory_id": 16,
+    "category_id": 2,
+    "category_key": "nature_wildlife"
+  },
+  "Wetlands, Marshes & Swamp Creatures": {
+    "subcategory_id": 17,
+    "category_id": 2,
+    "category_key": "nature_wildlife"
+  },
+  "Coastal Beaches & Island Wildlife": {
+    "subcategory_id": 18,
+    "category_id": 2,
+    "category_key": "nature_wildlife"
+  },
+  "Bird Flocks & Avian Habitats": {
+    "subcategory_id": 19,
+    "category_id": 2,
+    "category_key": "nature_wildlife"
+  },
+  "Insect Macro World (Butterflies, Beetles)": {
+    "subcategory_id": 20,
+    "category_id": 2,
+    "category_key": "nature_wildlife"
+  },
+  "Nocturnal Wildlife & Night Jungles": {
+    "subcategory_id": 21,
+    "category_id": 2,
+    "category_key": "nature_wildlife"
+  },
+  "Protozoan single cell organisms": {
+    "subcategory_id": 22,
+    "category_id": 2,
+    "category_key": "nature_wildlife"
+  },
+  "Mountains": {
+    "subcategory_id": 23,
+    "category_id": 2,
+    "category_key": "nature_wildlife"
+  },
+  "Hunting & Fishing": {
+    "subcategory_id": 24,
+    "category_id": 2,
+    "category_key": "nature_wildlife"
+  },
+  "Starships & Interstellar Space Travel": {
+    "subcategory_id": 25,
+    "category_id": 3,
+    "category_key": "scifi_futuristic"
+  },
+  "Futuristic Neon Cityscapes (Cyberpunk)": {
+    "subcategory_id": 26,
+    "category_id": 3,
+    "category_key": "scifi_futuristic"
+  },
+  "Alien Planet Landscapes": {
+    "subcategory_id": 27,
+    "category_id": 3,
+    "category_key": "scifi_futuristic"
+  },
+  "Robots, Androids & AI Beings": {
+    "subcategory_id": 28,
+    "category_id": 3,
+    "category_key": "scifi_futuristic"
+  },
+  "Flying Cars & Futuristic Vehicles": {
+    "subcategory_id": 29,
+    "category_id": 3,
+    "category_key": "scifi_futuristic"
+  },
+  "Laser Weapons & Future Warfare": {
+    "subcategory_id": 30,
+    "category_id": 3,
+    "category_key": "scifi_futuristic"
+  },
+  "Cyborgs & Augmented Humans": {
+    "subcategory_id": 31,
+    "category_id": 3,
+    "category_key": "scifi_futuristic"
+  },
+  "Time Machines & Temporal Portals": {
+    "subcategory_id": 32,
+    "category_id": 3,
+    "category_key": "scifi_futuristic"
+  },
+  "Virtual Reality & Cyberspace Worlds": {
+    "subcategory_id": 33,
+    "category_id": 3,
+    "category_key": "scifi_futuristic"
+  },
+  "Post-Apocalyptic Wastelands": {
+    "subcategory_id": 34,
+    "category_id": 3,
+    "category_key": "scifi_futuristic"
+  },
+  "Medieval Castles & Kingdoms": {
+    "subcategory_id": 35,
+    "category_id": 4,
+    "category_key": "fantasy_mythology"
+  },
+  "Dragons & Fire-Breathing Beasts": {
+    "subcategory_id": 36,
+    "category_id": 4,
+    "category_key": "fantasy_mythology"
+  },
+  "Wizards, Witches & Spellcasting": {
+    "subcategory_id": 37,
+    "category_id": 4,
+    "category_key": "fantasy_mythology"
+  },
+  "Enchanted Forests & Magical Woods": {
+    "subcategory_id": 38,
+    "category_id": 4,
+    "category_key": "fantasy_mythology"
+  },
+  "Mythological Gods & Legendary Heroes": {
+    "subcategory_id": 39,
+    "category_id": 4,
+    "category_key": "fantasy_mythology"
+  },
+  "Epic Sword & Sorcery Battles": {
+    "subcategory_id": 40,
+    "category_id": 4,
+    "category_key": "fantasy_mythology"
+  },
+  "Underwater Realms & Merfolk Kingdoms": {
+    "subcategory_id": 41,
+    "category_id": 4,
+    "category_key": "fantasy_mythology"
+  },
+  "Floating Islands & Sky Cities": {
+    "subcategory_id": 42,
+    "category_id": 4,
+    "category_key": "fantasy_mythology"
+  },
+  "Dwarven Mines & Underground Kingdoms": {
+    "subcategory_id": 43,
+    "category_id": 4,
+    "category_key": "fantasy_mythology"
+  },
+  "Elven Villages & Faerie Realms": {
+    "subcategory_id": 44,
+    "category_id": 4,
+    "category_key": "fantasy_mythology"
+  },
+  "Non-European Mythologies (e.g., Yoruba, M\u0101ori, Aztec realms)": {
+    "subcategory_id": 45,
+    "category_id": 4,
+    "category_key": "fantasy_mythology"
+  },
+  "Spirit Worlds & Afterlife Realms": {
+    "subcategory_id": 46,
+    "category_id": 4,
+    "category_key": "fantasy_mythology"
+  },
+  "Orcs, Goblins & Mythical Creatures": {
+    "subcategory_id": 47,
+    "category_id": 4,
+    "category_key": "fantasy_mythology"
+  },
+  "Haunted Houses & Ghostly Apparitions": {
+    "subcategory_id": 48,
+    "category_id": 5,
+    "category_key": "horror_supernatural"
+  },
+  "Zombies & The Undead": {
+    "subcategory_id": 49,
+    "category_id": 5,
+    "category_key": "horror_supernatural"
+  },
+  "Vampires, Werewolves & Night Creatures": {
+    "subcategory_id": 50,
+    "category_id": 5,
+    "category_key": "horror_supernatural"
+  },
+  "Occult Rituals & Demonic Summonings": {
+    "subcategory_id": 51,
+    "category_id": 5,
+    "category_key": "horror_supernatural"
+  },
+  "Abandoned Asylums & Creepy Hospitals": {
+    "subcategory_id": 52,
+    "category_id": 5,
+    "category_key": "horror_supernatural"
+  },
+  "Foggy Cemeteries & Graveyards": {
+    "subcategory_id": 53,
+    "category_id": 5,
+    "category_key": "horror_supernatural"
+  },
+  "Cursed Forests & Witch Gatherings": {
+    "subcategory_id": 54,
+    "category_id": 5,
+    "category_key": "horror_supernatural"
+  },
+  "Possessed Dolls & Cursed Objects": {
+    "subcategory_id": 55,
+    "category_id": 5,
+    "category_key": "horror_supernatural"
+  },
+  "Eldritch Monsters & Cosmic Horror": {
+    "subcategory_id": 56,
+    "category_id": 5,
+    "category_key": "horror_supernatural"
+  },
+  "Slasher Scenes & Gory Visuals": {
+    "subcategory_id": 57,
+    "category_id": 5,
+    "category_key": "horror_supernatural"
+  },
+  "Car Chases & High-Speed Pursuits": {
+    "subcategory_id": 58,
+    "category_id": 6,
+    "category_key": "action_adventure"
+  },
+  "Explosions & Urban Gunfights": {
+    "subcategory_id": 59,
+    "category_id": 6,
+    "category_key": "action_adventure"
+  },
+  "Jungle Exploration & Treasure Hunts": {
+    "subcategory_id": 60,
+    "category_id": 6,
+    "category_key": "action_adventure"
+  },
+  "Espionage Missions & Spy Infiltrations": {
+    "subcategory_id": 61,
+    "category_id": 6,
+    "category_key": "action_adventure"
+  },
+  "Aerial Dogfights & Jet Battles": {
+    "subcategory_id": 62,
+    "category_id": 6,
+    "category_key": "action_adventure"
+  },
+  "Rooftop Parkour & Foot Chases": {
+    "subcategory_id": 63,
+    "category_id": 6,
+    "category_key": "action_adventure"
+  },
+  "Pirate Ship Battles & Swashbuckling": {
+    "subcategory_id": 64,
+    "category_id": 6,
+    "category_key": "action_adventure"
+  },
+  "Rescue Missions & Disaster Response": {
+    "subcategory_id": 65,
+    "category_id": 6,
+    "category_key": "action_adventure"
+  },
+  "Martial Arts Duels & Fight Scenes": {
+    "subcategory_id": 66,
+    "category_id": 6,
+    "category_key": "action_adventure"
+  },
+  "Extreme Sports & Daredevil Stunts": {
+    "subcategory_id": 67,
+    "category_id": 6,
+    "category_key": "action_adventure"
+  },
+  "Noir Detective Offices & Investigations": {
+    "subcategory_id": 68,
+    "category_id": 7,
+    "category_key": "mystery_crime"
+  },
+  "Police Crime Scene Investigations": {
+    "subcategory_id": 69,
+    "category_id": 7,
+    "category_key": "mystery_crime"
+  },
+  "Bank Robberies & Heists": {
+    "subcategory_id": 70,
+    "category_id": 7,
+    "category_key": "mystery_crime"
+  },
+  "Cops & Criminal Shootouts": {
+    "subcategory_id": 71,
+    "category_id": 7,
+    "category_key": "mystery_crime"
+  },
+  "Prison Breaks & Escape Scenes": {
+    "subcategory_id": 72,
+    "category_id": 7,
+    "category_key": "mystery_crime"
+  },
+  "Mafia Meetings & Gangster Hideouts": {
+    "subcategory_id": 73,
+    "category_id": 7,
+    "category_key": "mystery_crime"
+  },
+  "Courtroom Trials & Legal Drama": {
+    "subcategory_id": 74,
+    "category_id": 7,
+    "category_key": "mystery_crime"
+  },
+  "Serial Killer Investigations & Evidence Boards": {
+    "subcategory_id": 75,
+    "category_id": 7,
+    "category_key": "mystery_crime"
+  },
+  "Conspiracies & Secret Agent Thrillers": {
+    "subcategory_id": 76,
+    "category_id": 7,
+    "category_key": "mystery_crime"
+  },
+  "Cybercrime & Hacking Scenes": {
+    "subcategory_id": 77,
+    "category_id": 7,
+    "category_key": "mystery_crime"
+  },
+  "Cyber Sleuths & Internet Whistleblowers": {
+    "subcategory_id": 78,
+    "category_id": 7,
+    "category_key": "mystery_crime"
+  },
+  "Cold Case Investigations": {
+    "subcategory_id": 79,
+    "category_id": 7,
+    "category_key": "mystery_crime"
+  },
+  "Bustling Street Markets & Bazaars": {
+    "subcategory_id": 80,
+    "category_id": 8,
+    "category_key": "urban_city_life"
+  },
+  "Skyscraper Skylines at Dusk": {
+    "subcategory_id": 81,
+    "category_id": 8,
+    "category_key": "urban_city_life"
+  },
+  "Traffic Jams & Busy Intersections": {
+    "subcategory_id": 82,
+    "category_id": 8,
+    "category_key": "urban_city_life"
+  },
+  "Subways, Buses & Commuter Crowds": {
+    "subcategory_id": 83,
+    "category_id": 8,
+    "category_key": "urban_city_life"
+  },
+  "City Parks & Urban Green Spaces": {
+    "subcategory_id": 84,
+    "category_id": 8,
+    "category_key": "urban_city_life"
+  },
+  "Neon-Lit Streets & Nightlife": {
+    "subcategory_id": 85,
+    "category_id": 8,
+    "category_key": "urban_city_life"
+  },
+  "Rooftops & City Skyline Views": {
+    "subcategory_id": 86,
+    "category_id": 8,
+    "category_key": "urban_city_life"
+  },
+  "Street Art, Graffiti & Urban Culture": {
+    "subcategory_id": 87,
+    "category_id": 8,
+    "category_key": "urban_city_life"
+  },
+  "Slums, Back Alleys & Inner-City Decay": {
+    "subcategory_id": 88,
+    "category_id": 8,
+    "category_key": "urban_city_life"
+  },
+  "Rainy City Streets & Umbrella Crowds": {
+    "subcategory_id": 89,
+    "category_id": 8,
+    "category_key": "urban_city_life"
+  },
+  "Outdoor Dining": {
+    "subcategory_id": 90,
+    "category_id": 8,
+    "category_key": "urban_city_life"
+  },
+  "Person(s) Walking & Strolling": {
+    "subcategory_id": 91,
+    "category_id": 8,
+    "category_key": "urban_city_life"
+  },
+  "Wheat Fields & Crop Farms": {
+    "subcategory_id": 92,
+    "category_id": 9,
+    "category_key": "rural_agriculture"
+  },
+  "Barnyards & Farm Animals": {
+    "subcategory_id": 93,
+    "category_id": 9,
+    "category_key": "rural_agriculture"
+  },
+  "Country Villages & Dirt Roads": {
+    "subcategory_id": 94,
+    "category_id": 9,
+    "category_key": "rural_agriculture"
+  },
+  "Farmers Harvesting Crops": {
+    "subcategory_id": 95,
+    "category_id": 9,
+    "category_key": "rural_agriculture"
+  },
+  "Tractors & Farming Machinery": {
+    "subcategory_id": 96,
+    "category_id": 9,
+    "category_key": "rural_agriculture"
+  },
+  "Vineyards & Orchard Groves": {
+    "subcategory_id": 97,
+    "category_id": 9,
+    "category_key": "rural_agriculture"
+  },
+  "County Fairs & Rural Festivals": {
+    "subcategory_id": 98,
+    "category_id": 9,
+    "category_key": "rural_agriculture"
+  },
+  "Ranches, Cowboys & Horse Riding": {
+    "subcategory_id": 99,
+    "category_id": 9,
+    "category_key": "rural_agriculture"
+  },
+  "Rice Paddies & Terraced Fields": {
+    "subcategory_id": 100,
+    "category_id": 9,
+    "category_key": "rural_agriculture"
+  },
+  "Farmhouses & Rustic Barns": {
+    "subcategory_id": 101,
+    "category_id": 9,
+    "category_key": "rural_agriculture"
+  },
+  "Ancient Temples & Pyramids": {
+    "subcategory_id": 102,
+    "category_id": 10,
+    "category_key": "architecture_landmarks"
+  },
+  "Castles & Medieval Fortresses": {
+    "subcategory_id": 103,
+    "category_id": 10,
+    "category_key": "architecture_landmarks"
+  },
+  "Grand Cathedrals & Churches": {
+    "subcategory_id": 104,
+    "category_id": 10,
+    "category_key": "architecture_landmarks"
+  },
+  "Modern Skyscrapers & Towers": {
+    "subcategory_id": 105,
+    "category_id": 10,
+    "category_key": "architecture_landmarks"
+  },
+  "Iconic Bridges & Engineering Marvels": {
+    "subcategory_id": 106,
+    "category_id": 10,
+    "category_key": "architecture_landmarks"
+  },
+  "Statues, Monuments & Memorials": {
+    "subcategory_id": 107,
+    "category_id": 10,
+    "category_key": "architecture_landmarks"
+  },
+  "Royal Palaces & Historic Estates": {
+    "subcategory_id": 108,
+    "category_id": 10,
+    "category_key": "architecture_landmarks"
+  },
+  "Futuristic City Structures": {
+    "subcategory_id": 109,
+    "category_id": 10,
+    "category_key": "architecture_landmarks"
+  },
+  "Museums, Libraries & Opera Houses": {
+    "subcategory_id": 110,
+    "category_id": 10,
+    "category_key": "architecture_landmarks"
+  },
+  "Stadiums & Modern Arenas": {
+    "subcategory_id": 111,
+    "category_id": 10,
+    "category_key": "architecture_landmarks"
+  },
+  "Mountain Backpacking & Hiking Trails": {
+    "subcategory_id": 112,
+    "category_id": 11,
+    "category_key": "travel_exploration"
+  },
+  "Desert Caravans & Camel Treks": {
+    "subcategory_id": 113,
+    "category_id": 11,
+    "category_key": "travel_exploration"
+  },
+  "Safari Jeeps & Wildlife Tours": {
+    "subcategory_id": 114,
+    "category_id": 11,
+    "category_key": "travel_exploration"
+  },
+  "Scenic Road Trips & Highways": {
+    "subcategory_id": 115,
+    "category_id": 11,
+    "category_key": "travel_exploration"
+  },
+  "Ocean Cruises & Sea Voyages": {
+    "subcategory_id": 116,
+    "category_id": 11,
+    "category_key": "travel_exploration"
+  },
+  "Hot Air Balloon Rides": {
+    "subcategory_id": 117,
+    "category_id": 11,
+    "category_key": "travel_exploration"
+  },
+  "Bustling Bazaars & Market Adventures": {
+    "subcategory_id": 118,
+    "category_id": 11,
+    "category_key": "travel_exploration"
+  },
+  "Cross-Country Train Journeys": {
+    "subcategory_id": 119,
+    "category_id": 11,
+    "category_key": "travel_exploration"
+  },
+  "Polar Expeditions in Ice & Snow": {
+    "subcategory_id": 120,
+    "category_id": 11,
+    "category_key": "travel_exploration"
+  },
+  "Jungle Treks to Ancient Ruins": {
+    "subcategory_id": 121,
+    "category_id": 11,
+    "category_key": "travel_exploration"
+  },
+  "Hotel": {
+    "subcategory_id": 122,
+    "category_id": 11,
+    "category_key": "travel_exploration"
+  },
+  "Camping": {
+    "subcategory_id": 123,
+    "category_id": 11,
+    "category_key": "travel_exploration"
+  },
+  "Tourist & Sightseeing": {
+    "subcategory_id": 124,
+    "category_id": 11,
+    "category_key": "travel_exploration"
+  },
+  "Beach": {
+    "subcategory_id": 125,
+    "category_id": 11,
+    "category_key": "travel_exploration"
+  },
+  "Family Dinners & Home Gatherings": {
+    "subcategory_id": 126,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Children Playing at Playgrounds": {
+    "subcategory_id": 127,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Romantic Couple Bonding": {
+    "subcategory_id": 128,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Outdoor Relaxation": {
+    "subcategory_id": 129,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Sidewalk Caf\u00e9s & Street Conversations": {
+    "subcategory_id": 130,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Morning Routines at Home": {
+    "subcategory_id": 131,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Commuters on Daily Transit": {
+    "subcategory_id": 132,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Shopping in a Retail Store": {
+    "subcategory_id": 133,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Community Festivals & Street Fairs": {
+    "subcategory_id": 134,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Relaxing at Home": {
+    "subcategory_id": 135,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Multigenerational Households": {
+    "subcategory_id": 136,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Life in Refugee Camps": {
+    "subcategory_id": 137,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Solo Living & Urban Isolation": {
+    "subcategory_id": 138,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Driving a Car": {
+    "subcategory_id": 139,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Book reading & Storytelling": {
+    "subcategory_id": 140,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "People talking and social interactions": {
+    "subcategory_id": 141,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "People arguing & fighting": {
+    "subcategory_id": 142,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Home Gardening & Plant Maintenance": {
+    "subcategory_id": 143,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Household chores": {
+    "subcategory_id": 144,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Personal Finance & Money": {
+    "subcategory_id": 145,
+    "category_id": 12,
+    "category_key": "people_daily_life"
+  },
+  "Boardroom Meetings & Presentations": {
+    "subcategory_id": 146,
+    "category_id": 13,
+    "category_key": "business_corporate"
+  },
+  "Open-Plan Office Workspaces": {
+    "subcategory_id": 147,
+    "category_id": 13,
+    "category_key": "business_corporate"
+  },
+  "Team Brainstorming Sessions": {
+    "subcategory_id": 148,
+    "category_id": 13,
+    "category_key": "business_corporate"
+  },
+  "Handshake Deals & Business Partners": {
+    "subcategory_id": 149,
+    "category_id": 13,
+    "category_key": "business_corporate"
+  },
+  "Call Centers & Customer Support Floors": {
+    "subcategory_id": 150,
+    "category_id": 13,
+    "category_key": "business_corporate"
+  },
+  "Stock Trading Floors & Finance Hubs": {
+    "subcategory_id": 151,
+    "category_id": 13,
+    "category_key": "business_corporate"
+  },
+  "Networking Events & Mixers": {
+    "subcategory_id": 152,
+    "category_id": 13,
+    "category_key": "business_corporate"
+  },
+  "Business Traveler": {
+    "subcategory_id": 153,
+    "category_id": 13,
+    "category_key": "business_corporate"
+  },
+  "Office Break Rooms & Watercooler Chats": {
+    "subcategory_id": 154,
+    "category_id": 13,
+    "category_key": "business_corporate"
+  },
+  "CEO Offices & Executive Meetings": {
+    "subcategory_id": 155,
+    "category_id": 13,
+    "category_key": "business_corporate"
+  },
+  "Surgeries in Operating Rooms": {
+    "subcategory_id": 156,
+    "category_id": 14,
+    "category_key": "medical_healthcare"
+  },
+  "Doctor Examinations & Check-Ups": {
+    "subcategory_id": 157,
+    "category_id": 14,
+    "category_key": "medical_healthcare"
+  },
+  "Hospital Wards & Patient Care": {
+    "subcategory_id": 158,
+    "category_id": 14,
+    "category_key": "medical_healthcare"
+  },
+  "Medical Labs & Research": {
+    "subcategory_id": 159,
+    "category_id": 14,
+    "category_key": "medical_healthcare"
+  },
+  "Emergency Room Trauma Scenes": {
+    "subcategory_id": 160,
+    "category_id": 14,
+    "category_key": "medical_healthcare"
+  },
+  "MRI Scans & Imaging Rooms": {
+    "subcategory_id": 161,
+    "category_id": 14,
+    "category_key": "medical_healthcare"
+  },
+  "Pharmacy Counters & Medication": {
+    "subcategory_id": 162,
+    "category_id": 14,
+    "category_key": "medical_healthcare"
+  },
+  "Dentist Clinics & Dental Care": {
+    "subcategory_id": 163,
+    "category_id": 14,
+    "category_key": "medical_healthcare"
+  },
+  "Ambulances & Paramedic Response": {
+    "subcategory_id": 164,
+    "category_id": 14,
+    "category_key": "medical_healthcare"
+  },
+  "Physical Therapy Sessions": {
+    "subcategory_id": 165,
+    "category_id": 14,
+    "category_key": "medical_healthcare"
+  },
+  "Medical Masks & Safety": {
+    "subcategory_id": 166,
+    "category_id": 14,
+    "category_key": "medical_healthcare"
+  },
+  "First-aid": {
+    "subcategory_id": 167,
+    "category_id": 14,
+    "category_key": "medical_healthcare"
+  },
+  "Elementary School Classrooms": {
+    "subcategory_id": 168,
+    "category_id": 15,
+    "category_key": "education_learning"
+  },
+  "Science Lab Experiments at School": {
+    "subcategory_id": 169,
+    "category_id": 15,
+    "category_key": "education_learning"
+  },
+  "University Lecture Halls": {
+    "subcategory_id": 170,
+    "category_id": 15,
+    "category_key": "education_learning"
+  },
+  "Libraries & Study Areas": {
+    "subcategory_id": 171,
+    "category_id": 15,
+    "category_key": "education_learning"
+  },
+  "Online Learning at Home": {
+    "subcategory_id": 172,
+    "category_id": 15,
+    "category_key": "education_learning"
+  },
+  "Graduation Ceremonies": {
+    "subcategory_id": 173,
+    "category_id": 15,
+    "category_key": "education_learning"
+  },
+  "Art Classes & Creative Workshops": {
+    "subcategory_id": 174,
+    "category_id": 15,
+    "category_key": "education_learning"
+  },
+  "Music Lessons & Band Practice": {
+    "subcategory_id": 175,
+    "category_id": 15,
+    "category_key": "education_learning"
+  },
+  "School Sports Days & Field Trips": {
+    "subcategory_id": 176,
+    "category_id": 15,
+    "category_key": "education_learning"
+  },
+  "Teachers at Chalkboards": {
+    "subcategory_id": 177,
+    "category_id": 15,
+    "category_key": "education_learning"
+  },
+  "Special Education Environments": {
+    "subcategory_id": 178,
+    "category_id": 15,
+    "category_key": "education_learning"
+  },
+  "Outdoor Education & Forest Schools": {
+    "subcategory_id": 179,
+    "category_id": 15,
+    "category_key": "education_learning"
+  },
+  "High school": {
+    "subcategory_id": 180,
+    "category_id": 15,
+    "category_key": "education_learning"
+  },
+  "College campus": {
+    "subcategory_id": 181,
+    "category_id": 15,
+    "category_key": "education_learning"
+  },
+  "Soccer Matches in Stadiums": {
+    "subcategory_id": 182,
+    "category_id": 16,
+    "category_key": "sports_fitness"
+  },
+  "Basketball Games on the Court": {
+    "subcategory_id": 183,
+    "category_id": 16,
+    "category_key": "sports_fitness"
+  },
+  "Track & Field Races": {
+    "subcategory_id": 184,
+    "category_id": 16,
+    "category_key": "sports_fitness"
+  },
+  "Gym Workouts & Weightlifting": {
+    "subcategory_id": 185,
+    "category_id": 16,
+    "category_key": "sports_fitness"
+  },
+  "Skateboarding & Extreme Sports": {
+    "subcategory_id": 186,
+    "category_id": 16,
+    "category_key": "sports_fitness"
+  },
+  "Swimming & Diving Competitions": {
+    "subcategory_id": 187,
+    "category_id": 16,
+    "category_key": "sports_fitness"
+  },
+  "Tennis Matches & Tournaments": {
+    "subcategory_id": 188,
+    "category_id": 16,
+    "category_key": "sports_fitness"
+  },
+  "Boxing Matches & Martial Arts": {
+    "subcategory_id": 189,
+    "category_id": 16,
+    "category_key": "sports_fitness"
+  },
+  "Skiing & Snowboarding": {
+    "subcategory_id": 190,
+    "category_id": 16,
+    "category_key": "sports_fitness"
+  },
+  "Car Races & Motorsports": {
+    "subcategory_id": 191,
+    "category_id": 16,
+    "category_key": "sports_fitness"
+  },
+  "American Football": {
+    "subcategory_id": 192,
+    "category_id": 16,
+    "category_key": "sports_fitness"
+  },
+  "Jogging and Running": {
+    "subcategory_id": 193,
+    "category_id": 16,
+    "category_key": "sports_fitness"
+  },
+  "Warming Up & Working Out": {
+    "subcategory_id": 194,
+    "category_id": 16,
+    "category_key": "sports_fitness"
+  },
+  "Fine Dining Restaurant Cuisine": {
+    "subcategory_id": 195,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Street Food Stalls & Night Markets": {
+    "subcategory_id": 196,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Home Cooking in Kitchens": {
+    "subcategory_id": 197,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Bakeries & Pastry Making": {
+    "subcategory_id": 198,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Coffee Shops & Barista Craft": {
+    "subcategory_id": 199,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Backyard BBQs & Grilling": {
+    "subcategory_id": 200,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Farmers Market Produce Stands": {
+    "subcategory_id": 201,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Fast Food Diners & Burger Joints": {
+    "subcategory_id": 202,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Colorful Desserts & Ice Cream": {
+    "subcategory_id": 203,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Chef Competitions & Cooking Shows": {
+    "subcategory_id": 204,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Bars and Nightlife": {
+    "subcategory_id": 205,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Winery & Wine Tasting": {
+    "subcategory_id": 206,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Beverages & Drinking": {
+    "subcategory_id": 207,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Raw Ingredients": {
+    "subcategory_id": 208,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Ethnic Restaurant Dining & Cuisine": {
+    "subcategory_id": 209,
+    "category_id": 17,
+    "category_key": "food_culinary"
+  },
+  "Runway Catwalk Fashion Shows": {
+    "subcategory_id": 210,
+    "category_id": 18,
+    "category_key": "fashion_style"
+  },
+  "Model Photoshoots & Posing": {
+    "subcategory_id": 211,
+    "category_id": 18,
+    "category_key": "fashion_style"
+  },
+  "Boutique Clothing Stores": {
+    "subcategory_id": 212,
+    "category_id": 18,
+    "category_key": "fashion_style"
+  },
+  "Makeup Sessions & Beauty Salons": {
+    "subcategory_id": 213,
+    "category_id": 18,
+    "category_key": "fashion_style"
+  },
+  "Streetwear & Urban Fashion": {
+    "subcategory_id": 214,
+    "category_id": 18,
+    "category_key": "fashion_style"
+  },
+  "Traditional Cultural Attire": {
+    "subcategory_id": 215,
+    "category_id": 18,
+    "category_key": "fashion_style"
+  },
+  "Jewelry & Accessories Close-Ups": {
+    "subcategory_id": 216,
+    "category_id": 18,
+    "category_key": "fashion_style"
+  },
+  "Athletic Wear & Sports Fashion": {
+    "subcategory_id": 217,
+    "category_id": 18,
+    "category_key": "fashion_style"
+  },
+  "Avant-Garde Couture Editorials": {
+    "subcategory_id": 218,
+    "category_id": 18,
+    "category_key": "fashion_style"
+  },
+  "Designer Studios & Sewing Rooms": {
+    "subcategory_id": 219,
+    "category_id": 18,
+    "category_key": "fashion_style"
+  },
+  "Business Casual Attire": {
+    "subcategory_id": 220,
+    "category_id": 18,
+    "category_key": "fashion_style"
+  },
+  "Hairstyling": {
+    "subcategory_id": 221,
+    "category_id": 18,
+    "category_key": "fashion_style"
+  },
+  "Rock Concerts & Music Festivals": {
+    "subcategory_id": 222,
+    "category_id": 19,
+    "category_key": "entertainment_music"
+  },
+  "Orchestra & Opera Performances": {
+    "subcategory_id": 223,
+    "category_id": 19,
+    "category_key": "entertainment_music"
+  },
+  "Theater Plays & Musicals": {
+    "subcategory_id": 224,
+    "category_id": 19,
+    "category_key": "entertainment_music"
+  },
+  "Nightclubs, DJs & Dance Parties": {
+    "subcategory_id": 225,
+    "category_id": 19,
+    "category_key": "entertainment_music"
+  },
+  "Circus Acts & Acrobats": {
+    "subcategory_id": 226,
+    "category_id": 19,
+    "category_key": "entertainment_music"
+  },
+  "Film Sets & Movie Filming": {
+    "subcategory_id": 227,
+    "category_id": 19,
+    "category_key": "entertainment_music"
+  },
+  "Award Ceremonies & Red Carpets": {
+    "subcategory_id": 228,
+    "category_id": 19,
+    "category_key": "entertainment_music"
+  },
+  "Stand-Up Comedy Shows": {
+    "subcategory_id": 229,
+    "category_id": 19,
+    "category_key": "entertainment_music"
+  },
+  "Street Performers & Buskers": {
+    "subcategory_id": 230,
+    "category_id": 19,
+    "category_key": "entertainment_music"
+  },
+  "Magic Shows & Illusionists": {
+    "subcategory_id": 231,
+    "category_id": 19,
+    "category_key": "entertainment_music"
+  },
+  "People Playing Board & Card Games": {
+    "subcategory_id": 232,
+    "category_id": 19,
+    "category_key": "entertainment_music"
+  },
+  "Listening & Recording Music": {
+    "subcategory_id": 233,
+    "category_id": 19,
+    "category_key": "entertainment_music"
+  },
+  "Playing an Instrument": {
+    "subcategory_id": 234,
+    "category_id": 19,
+    "category_key": "entertainment_music"
+  },
+  "Dance Shows & Performances": {
+    "subcategory_id": 235,
+    "category_id": 19,
+    "category_key": "entertainment_music"
+  },
+  "Programmers & Coding Screens": {
+    "subcategory_id": 236,
+    "category_id": 20,
+    "category_key": "technology_computing"
+  },
+  "Server Racks & Data Centers": {
+    "subcategory_id": 237,
+    "category_id": 20,
+    "category_key": "technology_computing"
+  },
+  "Smartphones & Gadget Use": {
+    "subcategory_id": 238,
+    "category_id": 20,
+    "category_key": "technology_computing"
+  },
+  "AI Assistants & Service Robots": {
+    "subcategory_id": 239,
+    "category_id": 20,
+    "category_key": "technology_computing"
+  },
+  "Virtual Reality Headset Users": {
+    "subcategory_id": 240,
+    "category_id": 20,
+    "category_key": "technology_computing"
+  },
+  "Cybersecurity & Hacking Scenes": {
+    "subcategory_id": 241,
+    "category_id": 20,
+    "category_key": "technology_computing"
+  },
+  "3D Printers in Action": {
+    "subcategory_id": 242,
+    "category_id": 20,
+    "category_key": "technology_computing"
+  },
+  "Startup Offices & Tech Brainstorming": {
+    "subcategory_id": 243,
+    "category_id": 20,
+    "category_key": "technology_computing"
+  },
+  "Microchips & Circuit Board Close-Ups": {
+    "subcategory_id": 244,
+    "category_id": 20,
+    "category_key": "technology_computing"
+  },
+  "Drone Flights & Aerial Tech": {
+    "subcategory_id": 245,
+    "category_id": 20,
+    "category_key": "technology_computing"
+  },
+  "Soldiers in Battlefield Trenches": {
+    "subcategory_id": 246,
+    "category_id": 21,
+    "category_key": "war_military"
+  },
+  "Urban Warfare & Street Battles": {
+    "subcategory_id": 247,
+    "category_id": 21,
+    "category_key": "war_military"
+  },
+  "Tanks on the Battlefield": {
+    "subcategory_id": 248,
+    "category_id": 21,
+    "category_key": "war_military"
+  },
+  "Fighter Jets & Aerial Dogfights": {
+    "subcategory_id": 249,
+    "category_id": 21,
+    "category_key": "war_military"
+  },
+  "Naval Ships & Sea Battles": {
+    "subcategory_id": 250,
+    "category_id": 21,
+    "category_key": "war_military"
+  },
+  "Medieval Armies & Siege Warfare": {
+    "subcategory_id": 251,
+    "category_id": 21,
+    "category_key": "war_military"
+  },
+  "Special Forces Night Operations": {
+    "subcategory_id": 252,
+    "category_id": 21,
+    "category_key": "war_military"
+  },
+  "Artillery Fire & Explosions": {
+    "subcategory_id": 253,
+    "category_id": 21,
+    "category_key": "war_military"
+  },
+  "Command Centers & Military Briefings": {
+    "subcategory_id": 254,
+    "category_id": 21,
+    "category_key": "war_military"
+  },
+  "Military Parades & Ceremonies": {
+    "subcategory_id": 255,
+    "category_id": 21,
+    "category_key": "war_military"
+  },
+  "Ancient Egyptian Civilization Scenes": {
+    "subcategory_id": 256,
+    "category_id": 22,
+    "category_key": "historical_period"
+  },
+  "Roman Empire & Gladiator Arenas": {
+    "subcategory_id": 257,
+    "category_id": 22,
+    "category_key": "historical_period"
+  },
+  "Medieval Villages & Feudal Life": {
+    "subcategory_id": 258,
+    "category_id": 22,
+    "category_key": "historical_period"
+  },
+  "Wild West Frontier Towns": {
+    "subcategory_id": 259,
+    "category_id": 22,
+    "category_key": "historical_period"
+  },
+  "Victorian-Era City Streets": {
+    "subcategory_id": 260,
+    "category_id": 22,
+    "category_key": "historical_period"
+  },
+  "Roaring 1920s Jazz Clubs": {
+    "subcategory_id": 261,
+    "category_id": 22,
+    "category_key": "historical_period"
+  },
+  "World War II Homefront Life": {
+    "subcategory_id": 262,
+    "category_id": 22,
+    "category_key": "historical_period"
+  },
+  "Feudal Japan & Samurai Era": {
+    "subcategory_id": 263,
+    "category_id": 22,
+    "category_key": "historical_period"
+  },
+  "Renaissance Art Studios & Workshops": {
+    "subcategory_id": 264,
+    "category_id": 22,
+    "category_key": "historical_period"
+  },
+  "Royal Courts & Palaces": {
+    "subcategory_id": 265,
+    "category_id": 22,
+    "category_key": "historical_period"
+  },
+  "Fractals & Geometric Patterns": {
+    "subcategory_id": 266,
+    "category_id": 23,
+    "category_key": "abstract_surreal"
+  },
+  "Dreamlike Melting Landscapes": {
+    "subcategory_id": 267,
+    "category_id": 23,
+    "category_key": "abstract_surreal"
+  },
+  "Neon Lights & Light Trail Abstractions": {
+    "subcategory_id": 268,
+    "category_id": 23,
+    "category_key": "abstract_surreal"
+  },
+  "Floating Objects in Surreal Skies": {
+    "subcategory_id": 269,
+    "category_id": 23,
+    "category_key": "abstract_surreal"
+  },
+  "Liquid Ink Swirls & Smoke Art": {
+    "subcategory_id": 270,
+    "category_id": 23,
+    "category_key": "abstract_surreal"
+  },
+  "Kaleidoscope Mandala Patterns": {
+    "subcategory_id": 271,
+    "category_id": 23,
+    "category_key": "abstract_surreal"
+  },
+  "Cosmic Nebulae & Galactic Art": {
+    "subcategory_id": 272,
+    "category_id": 23,
+    "category_key": "abstract_surreal"
+  },
+  "Glitch Art & Digital Distortions": {
+    "subcategory_id": 273,
+    "category_id": 23,
+    "category_key": "abstract_surreal"
+  },
+  "Collages of Unrelated Objects": {
+    "subcategory_id": 274,
+    "category_id": 23,
+    "category_key": "abstract_surreal"
+  },
+  "Surreal Morphing Portraits": {
+    "subcategory_id": 275,
+    "category_id": 23,
+    "category_key": "abstract_surreal"
+  },
+  "Christmas & Winter Holidays": {
+    "subcategory_id": 276,
+    "category_id": 24,
+    "category_key": "celebrations_events"
+  },
+  "Halloween & Costume Parties": {
+    "subcategory_id": 277,
+    "category_id": 24,
+    "category_key": "celebrations_events"
+  },
+  "Carnival Parades & Mardi Gras": {
+    "subcategory_id": 278,
+    "category_id": 24,
+    "category_key": "celebrations_events"
+  },
+  "Chinese New Year Festivals": {
+    "subcategory_id": 279,
+    "category_id": 24,
+    "category_key": "celebrations_events"
+  },
+  "Indian Holi Color Festival": {
+    "subcategory_id": 280,
+    "category_id": 24,
+    "category_key": "celebrations_events"
+  },
+  "Weddings & Marriage Ceremonies": {
+    "subcategory_id": 281,
+    "category_id": 24,
+    "category_key": "celebrations_events"
+  },
+  "Cultural Parades & Street Festivals": {
+    "subcategory_id": 282,
+    "category_id": 24,
+    "category_key": "celebrations_events"
+  },
+  "Religious Ceremonies & Rituals": {
+    "subcategory_id": 283,
+    "category_id": 24,
+    "category_key": "celebrations_events"
+  },
+  "Birthday Parties & Celebrations": {
+    "subcategory_id": 284,
+    "category_id": 24,
+    "category_key": "celebrations_events"
+  },
+  "New Year's Eve Fireworks": {
+    "subcategory_id": 285,
+    "category_id": 24,
+    "category_key": "celebrations_events"
+  },
+  "Music Raves & Electronic Festivals": {
+    "subcategory_id": 286,
+    "category_id": 24,
+    "category_key": "celebrations_events"
+  },
+  "Food & Wine Festivals": {
+    "subcategory_id": 287,
+    "category_id": 24,
+    "category_key": "celebrations_events"
+  },
+  "Book Fairs & Literary Events": {
+    "subcategory_id": 288,
+    "category_id": 24,
+    "category_key": "celebrations_events"
+  },
+  "Comic Cons & Pop Culture Gatherings": {
+    "subcategory_id": 289,
+    "category_id": 24,
+    "category_key": "celebrations_events"
+  },
+  "Dogs Playing Fetch": {
+    "subcategory_id": 290,
+    "category_id": 25,
+    "category_key": "pets_domestic_animals"
+  },
+  "Cats Lounging at Home": {
+    "subcategory_id": 291,
+    "category_id": 25,
+    "category_key": "pets_domestic_animals"
+  },
+  "Horses & Equestrian Riding": {
+    "subcategory_id": 292,
+    "category_id": 25,
+    "category_key": "pets_domestic_animals"
+  },
+  "Pet Birds (Parrots & Parakeets)": {
+    "subcategory_id": 293,
+    "category_id": 25,
+    "category_key": "pets_domestic_animals"
+  },
+  "Aquarium Fish Tanks": {
+    "subcategory_id": 294,
+    "category_id": 25,
+    "category_key": "pets_domestic_animals"
+  },
+  "Rabbits, Hamsters & Small Pets": {
+    "subcategory_id": 295,
+    "category_id": 25,
+    "category_key": "pets_domestic_animals"
+  },
+  "Vet Clinics & Pet Checkups": {
+    "subcategory_id": 296,
+    "category_id": 25,
+    "category_key": "pets_domestic_animals"
+  },
+  "Dog Walks & Park Outings": {
+    "subcategory_id": 297,
+    "category_id": 25,
+    "category_key": "pets_domestic_animals"
+  },
+  "Owners Cuddling Pets": {
+    "subcategory_id": 298,
+    "category_id": 25,
+    "category_key": "pets_domestic_animals"
+  },
+  "Exotic Pets (Snakes, Lizards)": {
+    "subcategory_id": 299,
+    "category_id": 25,
+    "category_key": "pets_domestic_animals"
+  },
+  "Lunar Landscapes & Moon Missions": {
+    "subcategory_id": 300,
+    "category_id": 26,
+    "category_key": "space_astronomy"
+  },
+  "Distant Planets & Mars Scenery": {
+    "subcategory_id": 301,
+    "category_id": 26,
+    "category_key": "space_astronomy"
+  },
+  "Galaxies, Nebulae & Star Fields": {
+    "subcategory_id": 302,
+    "category_id": 26,
+    "category_key": "space_astronomy"
+  },
+  "Astronauts Floating in Space": {
+    "subcategory_id": 303,
+    "category_id": 26,
+    "category_key": "space_astronomy"
+  },
+  "Rocket Launches & Space Shuttles": {
+    "subcategory_id": 304,
+    "category_id": 26,
+    "category_key": "space_astronomy"
+  },
+  "Space Stations & Satellite Orbits": {
+    "subcategory_id": 305,
+    "category_id": 26,
+    "category_key": "space_astronomy"
+  },
+  "Earth from Space Views": {
+    "subcategory_id": 306,
+    "category_id": 26,
+    "category_key": "space_astronomy"
+  },
+  "Aurora Borealis & Night Skies": {
+    "subcategory_id": 307,
+    "category_id": 26,
+    "category_key": "space_astronomy"
+  },
+  "Solar Eclipses & Comets": {
+    "subcategory_id": 308,
+    "category_id": 26,
+    "category_key": "space_astronomy"
+  },
+  "Observatories & Telescopes": {
+    "subcategory_id": 309,
+    "category_id": 26,
+    "category_key": "space_astronomy"
+  },
+  "Colorful Coral Reefs": {
+    "subcategory_id": 310,
+    "category_id": 27,
+    "category_key": "underwater_marine"
+  },
+  "Deep Sea Creatures & Bioluminescence": {
+    "subcategory_id": 311,
+    "category_id": 27,
+    "category_key": "underwater_marine"
+  },
+  "Sharks, Whales & Ocean Giants": {
+    "subcategory_id": 312,
+    "category_id": 27,
+    "category_key": "underwater_marine"
+  },
+  "Sunken Shipwrecks": {
+    "subcategory_id": 313,
+    "category_id": 27,
+    "category_key": "underwater_marine"
+  },
+  "Scuba Divers & Submarines": {
+    "subcategory_id": 314,
+    "category_id": 27,
+    "category_key": "underwater_marine"
+  },
+  "Underwater Caves & Caverns": {
+    "subcategory_id": 315,
+    "category_id": 27,
+    "category_key": "underwater_marine"
+  },
+  "Polar Undersea Life (Under Ice)": {
+    "subcategory_id": 316,
+    "category_id": 27,
+    "category_key": "underwater_marine"
+  },
+  "Schools of Fish Shoaling": {
+    "subcategory_id": 317,
+    "category_id": 27,
+    "category_key": "underwater_marine"
+  },
+  "Dolphins & Sea Turtles": {
+    "subcategory_id": 318,
+    "category_id": 27,
+    "category_key": "underwater_marine"
+  },
+  "Hydrothermal Vents & Abyssal Depths": {
+    "subcategory_id": 319,
+    "category_id": 27,
+    "category_key": "underwater_marine"
+  },
+  "Coral Restoration Projects": {
+    "subcategory_id": 320,
+    "category_id": 27,
+    "category_key": "underwater_marine"
+  },
+  "Indigenous Fishing Practices": {
+    "subcategory_id": 321,
+    "category_id": 27,
+    "category_key": "underwater_marine"
+  },
+  "Sports Cars & Supercars": {
+    "subcategory_id": 322,
+    "category_id": 28,
+    "category_key": "transportation_vehicles"
+  },
+  "Vintage Classic Cars": {
+    "subcategory_id": 323,
+    "category_id": 28,
+    "category_key": "transportation_vehicles"
+  },
+  "Motorcycles & Bikers": {
+    "subcategory_id": 324,
+    "category_id": 28,
+    "category_key": "transportation_vehicles"
+  },
+  "Trains & Locomotives": {
+    "subcategory_id": 325,
+    "category_id": 28,
+    "category_key": "transportation_vehicles"
+  },
+  "Airplanes & Commercial Jets": {
+    "subcategory_id": 326,
+    "category_id": 28,
+    "category_key": "transportation_vehicles"
+  },
+  "Helicopters & Choppers": {
+    "subcategory_id": 327,
+    "category_id": 28,
+    "category_key": "transportation_vehicles"
+  },
+  "Ships, Boats & Yachts": {
+    "subcategory_id": 328,
+    "category_id": 28,
+    "category_key": "transportation_vehicles"
+  },
+  "Trucks & Cargo Vehicles": {
+    "subcategory_id": 329,
+    "category_id": 28,
+    "category_key": "transportation_vehicles"
+  },
+  "Bicycles & Cycling": {
+    "subcategory_id": 330,
+    "category_id": 28,
+    "category_key": "transportation_vehicles"
+  },
+  "Emergency Vehicles (Police Cars, Ambulances)": {
+    "subcategory_id": 331,
+    "category_id": 28,
+    "category_key": "transportation_vehicles"
+  },
+  "Vehicle Detail & Cleaning": {
+    "subcategory_id": 332,
+    "category_id": 28,
+    "category_key": "transportation_vehicles"
+  },
+  "Wheelchair Sports & Para-athletics": {
+    "subcategory_id": 333,
+    "category_id": 29,
+    "category_key": "disability_accessibility"
+  },
+  "Adaptive Technology Use": {
+    "subcategory_id": 334,
+    "category_id": 29,
+    "category_key": "disability_accessibility"
+  },
+  "Sign Language Communication": {
+    "subcategory_id": 335,
+    "category_id": 29,
+    "category_key": "disability_accessibility"
+  },
+  "Guide Dogs & Service Animals": {
+    "subcategory_id": 336,
+    "category_id": 29,
+    "category_key": "disability_accessibility"
+  },
+  "Accessible Public Spaces": {
+    "subcategory_id": 337,
+    "category_id": 29,
+    "category_key": "disability_accessibility"
+  },
+  "Neurodiverse Life & Sensory-Friendly Spaces": {
+    "subcategory_id": 338,
+    "category_id": 29,
+    "category_key": "disability_accessibility"
+  },
+  "Prosthetics & Bionic Limbs in Daily Use": {
+    "subcategory_id": 339,
+    "category_id": 29,
+    "category_key": "disability_accessibility"
+  },
+  "Inclusive Classrooms & Learning Support": {
+    "subcategory_id": 340,
+    "category_id": 29,
+    "category_key": "disability_accessibility"
+  },
+  "Pride Parades & Celebrations": {
+    "subcategory_id": 341,
+    "category_id": 30,
+    "category_key": "lgbtq_culture"
+  },
+  "Same-Sex Couples & Families": {
+    "subcategory_id": 342,
+    "category_id": 30,
+    "category_key": "lgbtq_culture"
+  },
+  "Drag Shows & Queer Nightlife": {
+    "subcategory_id": 343,
+    "category_id": 30,
+    "category_key": "lgbtq_culture"
+  },
+  "LGBTQ+ Activist Events": {
+    "subcategory_id": 344,
+    "category_id": 30,
+    "category_key": "lgbtq_culture"
+  },
+  "Transgender Visibility & Gender-Affirming Care": {
+    "subcategory_id": 345,
+    "category_id": 30,
+    "category_key": "lgbtq_culture"
+  },
+  "LGBTQ+ Parenting & Family Life": {
+    "subcategory_id": 346,
+    "category_id": 30,
+    "category_key": "lgbtq_culture"
+  },
+  "Historical LGBTQ+ Activism": {
+    "subcategory_id": 347,
+    "category_id": 30,
+    "category_key": "lgbtq_culture"
+  },
+  "Climate Change Protests": {
+    "subcategory_id": 348,
+    "category_id": 31,
+    "category_key": "social_movements"
+  },
+  "Human Rights Marches": {
+    "subcategory_id": 349,
+    "category_id": 31,
+    "category_key": "social_movements"
+  },
+  "Community Organizing": {
+    "subcategory_id": 350,
+    "category_id": 31,
+    "category_key": "social_movements"
+  },
+  "Environmental Clean-Up Events": {
+    "subcategory_id": 351,
+    "category_id": 31,
+    "category_key": "social_movements"
+  },
+  "Indigenous Rights Protests": {
+    "subcategory_id": 352,
+    "category_id": 31,
+    "category_key": "social_movements"
+  },
+  "Disability Rights Movements": {
+    "subcategory_id": 353,
+    "category_id": 31,
+    "category_key": "social_movements"
+  },
+  "Digital Activism & Online Campaigns": {
+    "subcategory_id": 354,
+    "category_id": 31,
+    "category_key": "social_movements"
+  },
+  "Pilgrimages & Sacred Journeys": {
+    "subcategory_id": 355,
+    "category_id": 32,
+    "category_key": "religion_spirituality"
+  },
+  "Meditation Retreats": {
+    "subcategory_id": 356,
+    "category_id": 32,
+    "category_key": "religion_spirituality"
+  },
+  "Interfaith Gatherings": {
+    "subcategory_id": 357,
+    "category_id": 32,
+    "category_key": "religion_spirituality"
+  },
+  "Indigenous Spiritual Ceremonies": {
+    "subcategory_id": 358,
+    "category_id": 32,
+    "category_key": "religion_spirituality"
+  },
+  "Modern Worship Spaces": {
+    "subcategory_id": 359,
+    "category_id": 32,
+    "category_key": "religion_spirituality"
+  },
+  "Youth Groups & Faith Education": {
+    "subcategory_id": 360,
+    "category_id": 32,
+    "category_key": "religion_spirituality"
+  },
+  "Funeral Rites & Mourning Practices": {
+    "subcategory_id": 361,
+    "category_id": 32,
+    "category_key": "religion_spirituality"
+  },
+  "Renaissance Fairs": {
+    "subcategory_id": 362,
+    "category_id": 33,
+    "category_key": "historical_reenactments"
+  },
+  "Civil War Reenactments": {
+    "subcategory_id": 363,
+    "category_id": 33,
+    "category_key": "historical_reenactments"
+  },
+  "Medieval Festivals": {
+    "subcategory_id": 364,
+    "category_id": 33,
+    "category_key": "historical_reenactments"
+  },
+  "Living History Museums": {
+    "subcategory_id": 365,
+    "category_id": 33,
+    "category_key": "historical_reenactments"
+  },
+  "Social Media Influencers": {
+    "subcategory_id": 366,
+    "category_id": 34,
+    "category_key": "everyday_technology"
+  },
+  "E-Sports & Gaming Tournaments": {
+    "subcategory_id": 367,
+    "category_id": 34,
+    "category_key": "everyday_technology"
+  },
+  "Working from a Laptop": {
+    "subcategory_id": 368,
+    "category_id": 34,
+    "category_key": "everyday_technology"
+  },
+  "Online Dating & Virtual Relationships": {
+    "subcategory_id": 369,
+    "category_id": 34,
+    "category_key": "everyday_technology"
+  },
+  "Media, Interviews, & Journalism": {
+    "subcategory_id": 370,
+    "category_id": 34,
+    "category_key": "everyday_technology"
+  },
+  "Playing Video Games & Gaming Consoles": {
+    "subcategory_id": 371,
+    "category_id": 34,
+    "category_key": "everyday_technology"
+  },
+  "Smartphone & Gadget Use": {
+    "subcategory_id": 372,
+    "category_id": 34,
+    "category_key": "everyday_technology"
+  },
+  "Retirement Communities": {
+    "subcategory_id": 373,
+    "category_id": 35,
+    "category_key": "aging_senior_life"
+  },
+  "Grandparents with Grandchildren": {
+    "subcategory_id": 374,
+    "category_id": 35,
+    "category_key": "aging_senior_life"
+  },
+  "Senior Fitness Classes": {
+    "subcategory_id": 375,
+    "category_id": 35,
+    "category_key": "aging_senior_life"
+  },
+  "Elderly Care Facilities": {
+    "subcategory_id": 376,
+    "category_id": 35,
+    "category_key": "aging_senior_life"
+  },
+  "Intergenerational Living": {
+    "subcategory_id": 377,
+    "category_id": 35,
+    "category_key": "aging_senior_life"
+  },
+  "End-of-Life Care & Hospice": {
+    "subcategory_id": 378,
+    "category_id": 35,
+    "category_key": "aging_senior_life"
+  },
+  "Senior Volunteerism & Community Engagement": {
+    "subcategory_id": 379,
+    "category_id": 35,
+    "category_key": "aging_senior_life"
+  },
+  "Urban Green Roofs & Eco-Architecture": {
+    "subcategory_id": 380,
+    "category_id": 36,
+    "category_key": "environmental_climate"
+  },
+  "Renewable Energy Installations (Solar, Wind)": {
+    "subcategory_id": 381,
+    "category_id": 36,
+    "category_key": "environmental_climate"
+  },
+  "Wildlife Conservation Efforts": {
+    "subcategory_id": 382,
+    "category_id": 36,
+    "category_key": "environmental_climate"
+  },
+  "Recycling Centers & Waste Management": {
+    "subcategory_id": 383,
+    "category_id": 36,
+    "category_key": "environmental_climate"
+  },
+  "Wildfire & Flood Response": {
+    "subcategory_id": 384,
+    "category_id": 37,
+    "category_key": "disaster_emergency"
+  },
+  "Earthquake Recovery Scenes": {
+    "subcategory_id": 385,
+    "category_id": 37,
+    "category_key": "disaster_emergency"
+  },
+  "Humanitarian Aid Distribution": {
+    "subcategory_id": 386,
+    "category_id": 37,
+    "category_key": "disaster_emergency"
+  },
+  "Search & Rescue Operations": {
+    "subcategory_id": 387,
+    "category_id": 37,
+    "category_key": "disaster_emergency"
+  },
+  "Newborn Care & Parenting": {
+    "subcategory_id": 388,
+    "category_id": 38,
+    "category_key": "parenting_child_development"
+  },
+  "School Drop-Offs & Pick-Ups": {
+    "subcategory_id": 389,
+    "category_id": 38,
+    "category_key": "parenting_child_development"
+  },
+  "Children's Birthday Parties": {
+    "subcategory_id": 390,
+    "category_id": 38,
+    "category_key": "parenting_child_development"
+  },
+  "Daycare & Early Learning Centers": {
+    "subcategory_id": 391,
+    "category_id": 38,
+    "category_key": "parenting_child_development"
+  },
+  "Children Playing & Recreation": {
+    "subcategory_id": 392,
+    "category_id": 38,
+    "category_key": "parenting_child_development"
+  },
+  "Parent Teaching a Child": {
+    "subcategory_id": 393,
+    "category_id": 38,
+    "category_key": "parenting_child_development"
+  },
+  "Gig Workers & Delivery Riders": {
+    "subcategory_id": 394,
+    "category_id": 39,
+    "category_key": "economy_labor"
+  },
+  "Street Vendors & Informal Economy": {
+    "subcategory_id": 395,
+    "category_id": 39,
+    "category_key": "economy_labor"
+  },
+  "Factory Protests & Labor Strikes": {
+    "subcategory_id": 396,
+    "category_id": 39,
+    "category_key": "economy_labor"
+  },
+  "Election Campaign Rallies": {
+    "subcategory_id": 397,
+    "category_id": 40,
+    "category_key": "politics_governance"
+  },
+  "Government Offices & Public Servants": {
+    "subcategory_id": 398,
+    "category_id": 40,
+    "category_key": "politics_governance"
+  },
+  "Political Debates & Town Halls": {
+    "subcategory_id": 399,
+    "category_id": 40,
+    "category_key": "politics_governance"
+  },
+  "Forensic Labs & Evidence Analysis": {
+    "subcategory_id": 400,
+    "category_id": 41,
+    "category_key": "crime_justice"
+  },
+  "Prison Facility & System": {
+    "subcategory_id": 401,
+    "category_id": 41,
+    "category_key": "crime_justice"
+  },
+  "Surveillance & Policing Technology": {
+    "subcategory_id": 402,
+    "category_id": 41,
+    "category_key": "crime_justice"
+  },
+  "Law Enforcement & Police": {
+    "subcategory_id": 403,
+    "category_id": 41,
+    "category_key": "crime_justice"
+  },
+  "AI Ethics Panels & Policy Debates": {
+    "subcategory_id": 404,
+    "category_id": 42,
+    "category_key": "technology_ethics"
+  },
+  "Data Surveillance Cities": {
+    "subcategory_id": 405,
+    "category_id": 42,
+    "category_key": "technology_ethics"
+  },
+  "Social Credit Systems & Behavior Scoring": {
+    "subcategory_id": 406,
+    "category_id": 42,
+    "category_key": "technology_ethics"
+  },
+  "Climate Refugees & Displacement": {
+    "subcategory_id": 407,
+    "category_id": 43,
+    "category_key": "environmental_justice"
+  },
+  "Industrial Pollution & Protest": {
+    "subcategory_id": 408,
+    "category_id": 43,
+    "category_key": "environmental_justice"
+  },
+  "Community Gardens & Urban Farming Initiatives": {
+    "subcategory_id": 409,
+    "category_id": 43,
+    "category_key": "environmental_justice"
+  },
+  "Retail Worker": {
+    "subcategory_id": 410,
+    "category_id": 44,
+    "category_key": "jobs_workers"
+  },
+  "Bike Repair": {
+    "subcategory_id": 411,
+    "category_id": 44,
+    "category_key": "jobs_workers"
+  },
+  "Car Mechanic": {
+    "subcategory_id": 412,
+    "category_id": 44,
+    "category_key": "jobs_workers"
+  },
+  "Maintenance worker": {
+    "subcategory_id": 413,
+    "category_id": 44,
+    "category_key": "jobs_workers"
+  },
+  "Realtor/Real Estate Agent": {
+    "subcategory_id": 414,
+    "category_id": 44,
+    "category_key": "jobs_workers"
+  },
+  "Doctor & Nurses": {
+    "subcategory_id": 415,
+    "category_id": 44,
+    "category_key": "jobs_workers"
+  },
+  "Hotel and House Cleaning": {
+    "subcategory_id": 416,
+    "category_id": 44,
+    "category_key": "jobs_workers"
+  },
+  "Photography & Cinematography": {
+    "subcategory_id": 417,
+    "category_id": 45,
+    "category_key": "arts_creativity"
+  },
+  "Home Decor & DIY Crafts": {
+    "subcategory_id": 418,
+    "category_id": 45,
+    "category_key": "arts_creativity"
+  },
+  "Florists & Floral Arrangements": {
+    "subcategory_id": 419,
+    "category_id": 45,
+    "category_key": "arts_creativity"
+  },
+  "Visual Arts (Painting, Drawing, Coloring)": {
+    "subcategory_id": 420,
+    "category_id": 45,
+    "category_key": "arts_creativity"
+  },
+  "Pottery & Ceramics": {
+    "subcategory_id": 421,
+    "category_id": 45,
+    "category_key": "arts_creativity"
+  },
+  "Knitting and sewing": {
+    "subcategory_id": 422,
+    "category_id": 45,
+    "category_key": "arts_creativity"
+  }
+}

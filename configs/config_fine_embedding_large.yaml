@@ -1,0 +1,27 @@
+model:
+  type: "embedding"
+  num_classes: 422
+  encoder: "all-mpnet-base-v2"  # Larger model: 768-dim, better quality
+  classifier: "logistic_regression"
+
+classifier_params:
+  max_iter: 2000
+  C: 0.5
+  class_weight: "balanced"
+
+embedding:
+  batch_size: 16  # Smaller batch for larger model
+  cache_embeddings: true
+
+data:
+  train_path: "data/train_combined.csv"
+  valid_path: "data/valid_combined.csv"
+  text_column: "caption"
+  label_column: "subcategory_id"
+
+training:
+  checkpoint_path: "models/model_fine_embedding_large.pkl"
+
+inference:
+  confidence_threshold: 0.60
+

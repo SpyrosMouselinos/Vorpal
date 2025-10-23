@@ -1,0 +1,26 @@
+model:
+  num_classes: 45  # From labels_gt.yml
+  namespace: "t"
+  
+vw:
+  bits: 26                    # 64M features (4x more than default)
+  learning_rate: 0.2          # Lower for more stable learning
+  l2: 1.0e-6                  # Stronger regularization
+  ngram: 3                    # Trigrams for more context
+  loss_function: "logistic"
+  probabilities: true
+
+data:
+  train_path: "data/train_combined.csv"
+  valid_path: "data/valid_combined.csv"
+  text_column: "caption"
+  label_column: "category_id"
+
+training:
+  log_every: 5000
+  checkpoint_path: "models/model_coarse_improved.vwbin"
+  save_labels: false
+
+inference:
+  confidence_threshold: 0.85
+

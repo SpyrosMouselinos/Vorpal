@@ -1,0 +1,694 @@
+{
+  "1": {
+    "key": "industry_manufacturing",
+    "name": "Industry & Manufacturing",
+    "subcategories": {
+      "1": "Factory Assembly Lines & Production Floors",
+      "2": "Construction Sites with Heavy Machinery",
+      "3": "Mining Operations & Quarries",
+      "4": "Oil Rigs & Refinery Plants",
+      "5": "Robotic Assembly & Automated Factories",
+      "6": "Welding Workshops & Metal Forging",
+      "7": "Warehouse Logistics & Shipping Centers",
+      "8": "Power Plants & Energy Facilities",
+      "9": "Textile Mills & Clothing Factories",
+      "10": "Automotive Assembly Plants",
+      "11": "Woodworking & Carpentry"
+    }
+  },
+  "2": {
+    "key": "nature_wildlife",
+    "name": "Nature & Wildlife",
+    "subcategories": {
+      "12": "Tropical Rainforests & Jungle Wildlife",
+      "13": "Savannah Safaris & Grassland Animals",
+      "14": "Mountain Forests & Highland Wildlife",
+      "15": "Desert Landscapes & Dune Wildlife",
+      "16": "Polar Regions & Arctic Wildlife",
+      "17": "Wetlands, Marshes & Swamp Creatures",
+      "18": "Coastal Beaches & Island Wildlife",
+      "19": "Bird Flocks & Avian Habitats",
+      "20": "Insect Macro World (Butterflies, Beetles)",
+      "21": "Nocturnal Wildlife & Night Jungles",
+      "22": "Protozoan single cell organisms",
+      "23": "Mountains",
+      "24": "Hunting & Fishing"
+    }
+  },
+  "3": {
+    "key": "scifi_futuristic",
+    "name": "Science Fiction & Futuristic",
+    "subcategories": {
+      "25": "Starships & Interstellar Space Travel",
+      "26": "Futuristic Neon Cityscapes (Cyberpunk)",
+      "27": "Alien Planet Landscapes",
+      "28": "Robots, Androids & AI Beings",
+      "29": "Flying Cars & Futuristic Vehicles",
+      "30": "Laser Weapons & Future Warfare",
+      "31": "Cyborgs & Augmented Humans",
+      "32": "Time Machines & Temporal Portals",
+      "33": "Virtual Reality & Cyberspace Worlds",
+      "34": "Post-Apocalyptic Wastelands"
+    }
+  },
+  "4": {
+    "key": "fantasy_mythology",
+    "name": "Fantasy & Mythology",
+    "subcategories": {
+      "35": "Medieval Castles & Kingdoms",
+      "36": "Dragons & Fire-Breathing Beasts",
+      "37": "Wizards, Witches & Spellcasting",
+      "38": "Enchanted Forests & Magical Woods",
+      "39": "Mythological Gods & Legendary Heroes",
+      "40": "Epic Sword & Sorcery Battles",
+      "41": "Underwater Realms & Merfolk Kingdoms",
+      "42": "Floating Islands & Sky Cities",
+      "43": "Dwarven Mines & Underground Kingdoms",
+      "44": "Elven Villages & Faerie Realms",
+      "45": "Non-European Mythologies (e.g., Yoruba, M\u0101ori, Aztec realms)",
+      "46": "Spirit Worlds & Afterlife Realms",
+      "47": "Orcs, Goblins & Mythical Creatures"
+    }
+  },
+  "5": {
+    "key": "horror_supernatural",
+    "name": "Horror & Supernatural",
+    "subcategories": {
+      "48": "Haunted Houses & Ghostly Apparitions",
+      "49": "Zombies & The Undead",
+      "50": "Vampires, Werewolves & Night Creatures",
+      "51": "Occult Rituals & Demonic Summonings",
+      "52": "Abandoned Asylums & Creepy Hospitals",
+      "53": "Foggy Cemeteries & Graveyards",
+      "54": "Cursed Forests & Witch Gatherings",
+      "55": "Possessed Dolls & Cursed Objects",
+      "56": "Eldritch Monsters & Cosmic Horror",
+      "57": "Slasher Scenes & Gory Visuals"
+    }
+  },
+  "6": {
+    "key": "action_adventure",
+    "name": "Action & Adventure",
+    "subcategories": {
+      "58": "Car Chases & High-Speed Pursuits",
+      "59": "Explosions & Urban Gunfights",
+      "60": "Jungle Exploration & Treasure Hunts",
+      "61": "Espionage Missions & Spy Infiltrations",
+      "62": "Aerial Dogfights & Jet Battles",
+      "63": "Rooftop Parkour & Foot Chases",
+      "64": "Pirate Ship Battles & Swashbuckling",
+      "65": "Rescue Missions & Disaster Response",
+      "66": "Martial Arts Duels & Fight Scenes",
+      "67": "Extreme Sports & Daredevil Stunts"
+    }
+  },
+  "7": {
+    "key": "mystery_crime",
+    "name": "Mystery & Crime",
+    "subcategories": {
+      "68": "Noir Detective Offices & Investigations",
+      "69": "Police Crime Scene Investigations",
+      "70": "Bank Robberies & Heists",
+      "71": "Cops & Criminal Shootouts",
+      "72": "Prison Breaks & Escape Scenes",
+      "73": "Mafia Meetings & Gangster Hideouts",
+      "74": "Courtroom Trials & Legal Drama",
+      "75": "Serial Killer Investigations & Evidence Boards",
+      "76": "Conspiracies & Secret Agent Thrillers",
+      "77": "Cybercrime & Hacking Scenes",
+      "78": "Cyber Sleuths & Internet Whistleblowers",
+      "79": "Cold Case Investigations"
+    }
+  },
+  "8": {
+    "key": "urban_city_life",
+    "name": "Urban & City Life",
+    "subcategories": {
+      "80": "Bustling Street Markets & Bazaars",
+      "81": "Skyscraper Skylines at Dusk",
+      "82": "Traffic Jams & Busy Intersections",
+      "83": "Subways, Buses & Commuter Crowds",
+      "84": "City Parks & Urban Green Spaces",
+      "85": "Neon-Lit Streets & Nightlife",
+      "86": "Rooftops & City Skyline Views",
+      "87": "Street Art, Graffiti & Urban Culture",
+      "88": "Slums, Back Alleys & Inner-City Decay",
+      "89": "Rainy City Streets & Umbrella Crowds",
+      "90": "Outdoor Dining",
+      "91": "Person(s) Walking & Strolling"
+    }
+  },
+  "9": {
+    "key": "rural_agriculture",
+    "name": "Rural Life & Agriculture",
+    "subcategories": {
+      "92": "Wheat Fields & Crop Farms",
+      "93": "Barnyards & Farm Animals",
+      "94": "Country Villages & Dirt Roads",
+      "95": "Farmers Harvesting Crops",
+      "96": "Tractors & Farming Machinery",
+      "97": "Vineyards & Orchard Groves",
+      "98": "County Fairs & Rural Festivals",
+      "99": "Ranches, Cowboys & Horse Riding",
+      "100": "Rice Paddies & Terraced Fields",
+      "101": "Farmhouses & Rustic Barns"
+    }
+  },
+  "10": {
+    "key": "architecture_landmarks",
+    "name": "Architecture & Landmarks",
+    "subcategories": {
+      "102": "Ancient Temples & Pyramids",
+      "103": "Castles & Medieval Fortresses",
+      "104": "Grand Cathedrals & Churches",
+      "105": "Modern Skyscrapers & Towers",
+      "106": "Iconic Bridges & Engineering Marvels",
+      "107": "Statues, Monuments & Memorials",
+      "108": "Royal Palaces & Historic Estates",
+      "109": "Futuristic City Structures",
+      "110": "Museums, Libraries & Opera Houses",
+      "111": "Stadiums & Modern Arenas"
+    }
+  },
+  "11": {
+    "key": "travel_exploration",
+    "name": "Travel & Exploration",
+    "subcategories": {
+      "112": "Mountain Backpacking & Hiking Trails",
+      "113": "Desert Caravans & Camel Treks",
+      "114": "Safari Jeeps & Wildlife Tours",
+      "115": "Scenic Road Trips & Highways",
+      "116": "Ocean Cruises & Sea Voyages",
+      "117": "Hot Air Balloon Rides",
+      "118": "Bustling Bazaars & Market Adventures",
+      "119": "Cross-Country Train Journeys",
+      "120": "Polar Expeditions in Ice & Snow",
+      "121": "Jungle Treks to Ancient Ruins",
+      "122": "Hotel",
+      "123": "Camping",
+      "124": "Tourist & Sightseeing",
+      "125": "Beach"
+    }
+  },
+  "12": {
+    "key": "people_daily_life",
+    "name": "People & Daily Life",
+    "subcategories": {
+      "126": "Family Dinners & Home Gatherings",
+      "127": "Children Playing at Playgrounds",
+      "128": "Romantic Couple Bonding",
+      "129": "Outdoor Relaxation",
+      "130": "Sidewalk Caf\u00e9s & Street Conversations",
+      "131": "Morning Routines at Home",
+      "132": "Commuters on Daily Transit",
+      "133": "Shopping in a Retail Store",
+      "134": "Community Festivals & Street Fairs",
+      "135": "Relaxing at Home",
+      "136": "Multigenerational Households",
+      "137": "Life in Refugee Camps",
+      "138": "Solo Living & Urban Isolation",
+      "139": "Driving a Car",
+      "140": "Book reading & Storytelling",
+      "141": "People talking and social interactions",
+      "142": "People arguing & fighting",
+      "143": "Home Gardening & Plant Maintenance",
+      "144": "Household chores",
+      "145": "Personal Finance & Money"
+    }
+  },
+  "13": {
+    "key": "business_corporate",
+    "name": "Business & Corporate",
+    "subcategories": {
+      "146": "Boardroom Meetings & Presentations",
+      "147": "Open-Plan Office Workspaces",
+      "148": "Team Brainstorming Sessions",
+      "149": "Handshake Deals & Business Partners",
+      "150": "Call Centers & Customer Support Floors",
+      "151": "Stock Trading Floors & Finance Hubs",
+      "152": "Networking Events & Mixers",
+      "153": "Business Traveler",
+      "154": "Office Break Rooms & Watercooler Chats",
+      "155": "CEO Offices & Executive Meetings"
+    }
+  },
+  "14": {
+    "key": "medical_healthcare",
+    "name": "Medical & Healthcare",
+    "subcategories": {
+      "156": "Surgeries in Operating Rooms",
+      "157": "Doctor Examinations & Check-Ups",
+      "158": "Hospital Wards & Patient Care",
+      "159": "Medical Labs & Research",
+      "160": "Emergency Room Trauma Scenes",
+      "161": "MRI Scans & Imaging Rooms",
+      "162": "Pharmacy Counters & Medication",
+      "163": "Dentist Clinics & Dental Care",
+      "164": "Ambulances & Paramedic Response",
+      "165": "Physical Therapy Sessions",
+      "166": "Medical Masks & Safety",
+      "167": "First-aid"
+    }
+  },
+  "15": {
+    "key": "education_learning",
+    "name": "Education & Learning",
+    "subcategories": {
+      "168": "Elementary School Classrooms",
+      "169": "Science Lab Experiments at School",
+      "170": "University Lecture Halls",
+      "171": "Libraries & Study Areas",
+      "172": "Online Learning at Home",
+      "173": "Graduation Ceremonies",
+      "174": "Art Classes & Creative Workshops",
+      "175": "Music Lessons & Band Practice",
+      "176": "School Sports Days & Field Trips",
+      "177": "Teachers at Chalkboards",
+      "178": "Special Education Environments",
+      "179": "Outdoor Education & Forest Schools",
+      "180": "High school",
+      "181": "College campus"
+    }
+  },
+  "16": {
+    "key": "sports_fitness",
+    "name": "Sports & Fitness",
+    "subcategories": {
+      "182": "Soccer Matches in Stadiums",
+      "183": "Basketball Games on the Court",
+      "184": "Track & Field Races",
+      "185": "Gym Workouts & Weightlifting",
+      "186": "Skateboarding & Extreme Sports",
+      "187": "Swimming & Diving Competitions",
+      "188": "Tennis Matches & Tournaments",
+      "189": "Boxing Matches & Martial Arts",
+      "190": "Skiing & Snowboarding",
+      "191": "Car Races & Motorsports",
+      "192": "American Football",
+      "193": "Jogging and Running",
+      "194": "Warming Up & Working Out"
+    }
+  },
+  "17": {
+    "key": "food_culinary",
+    "name": "Food & Culinary",
+    "subcategories": {
+      "195": "Fine Dining Restaurant Cuisine",
+      "196": "Street Food Stalls & Night Markets",
+      "197": "Home Cooking in Kitchens",
+      "198": "Bakeries & Pastry Making",
+      "199": "Coffee Shops & Barista Craft",
+      "200": "Backyard BBQs & Grilling",
+      "201": "Farmers Market Produce Stands",
+      "202": "Fast Food Diners & Burger Joints",
+      "203": "Colorful Desserts & Ice Cream",
+      "204": "Chef Competitions & Cooking Shows",
+      "205": "Bars and Nightlife",
+      "206": "Winery & Wine Tasting",
+      "207": "Beverages & Drinking",
+      "208": "Raw Ingredients",
+      "209": "Ethnic Restaurant Dining & Cuisine"
+    }
+  },
+  "18": {
+    "key": "fashion_style",
+    "name": "Fashion & Style",
+    "subcategories": {
+      "210": "Runway Catwalk Fashion Shows",
+      "211": "Model Photoshoots & Posing",
+      "212": "Boutique Clothing Stores",
+      "213": "Makeup Sessions & Beauty Salons",
+      "214": "Streetwear & Urban Fashion",
+      "215": "Traditional Cultural Attire",
+      "216": "Jewelry & Accessories Close-Ups",
+      "217": "Athletic Wear & Sports Fashion",
+      "218": "Avant-Garde Couture Editorials",
+      "219": "Designer Studios & Sewing Rooms",
+      "220": "Business Casual Attire",
+      "221": "Hairstyling"
+    }
+  },
+  "19": {
+    "key": "entertainment_music",
+    "name": "Entertainment & Music",
+    "subcategories": {
+      "222": "Rock Concerts & Music Festivals",
+      "223": "Orchestra & Opera Performances",
+      "224": "Theater Plays & Musicals",
+      "225": "Nightclubs, DJs & Dance Parties",
+      "226": "Circus Acts & Acrobats",
+      "227": "Film Sets & Movie Filming",
+      "228": "Award Ceremonies & Red Carpets",
+      "229": "Stand-Up Comedy Shows",
+      "230": "Street Performers & Buskers",
+      "231": "Magic Shows & Illusionists",
+      "232": "People Playing Board & Card Games",
+      "233": "Listening & Recording Music",
+      "234": "Playing an Instrument",
+      "235": "Dance Shows & Performances"
+    }
+  },
+  "20": {
+    "key": "technology_computing",
+    "name": "Technology & Computing",
+    "subcategories": {
+      "236": "Programmers & Coding Screens",
+      "237": "Server Racks & Data Centers",
+      "238": "Smartphones & Gadget Use",
+      "239": "AI Assistants & Service Robots",
+      "240": "Virtual Reality Headset Users",
+      "241": "Cybersecurity & Hacking Scenes",
+      "242": "3D Printers in Action",
+      "243": "Startup Offices & Tech Brainstorming",
+      "244": "Microchips & Circuit Board Close-Ups",
+      "245": "Drone Flights & Aerial Tech"
+    }
+  },
+  "21": {
+    "key": "war_military",
+    "name": "War & Military",
+    "subcategories": {
+      "246": "Soldiers in Battlefield Trenches",
+      "247": "Urban Warfare & Street Battles",
+      "248": "Tanks on the Battlefield",
+      "249": "Fighter Jets & Aerial Dogfights",
+      "250": "Naval Ships & Sea Battles",
+      "251": "Medieval Armies & Siege Warfare",
+      "252": "Special Forces Night Operations",
+      "253": "Artillery Fire & Explosions",
+      "254": "Command Centers & Military Briefings",
+      "255": "Military Parades & Ceremonies"
+    }
+  },
+  "22": {
+    "key": "historical_period",
+    "name": "Historical & Period",
+    "subcategories": {
+      "256": "Ancient Egyptian Civilization Scenes",
+      "257": "Roman Empire & Gladiator Arenas",
+      "258": "Medieval Villages & Feudal Life",
+      "259": "Wild West Frontier Towns",
+      "260": "Victorian-Era City Streets",
+      "261": "Roaring 1920s Jazz Clubs",
+      "262": "World War II Homefront Life",
+      "263": "Feudal Japan & Samurai Era",
+      "264": "Renaissance Art Studios & Workshops",
+      "265": "Royal Courts & Palaces"
+    }
+  },
+  "23": {
+    "key": "abstract_surreal",
+    "name": "Abstract & Surreal",
+    "subcategories": {
+      "266": "Fractals & Geometric Patterns",
+      "267": "Dreamlike Melting Landscapes",
+      "268": "Neon Lights & Light Trail Abstractions",
+      "269": "Floating Objects in Surreal Skies",
+      "270": "Liquid Ink Swirls & Smoke Art",
+      "271": "Kaleidoscope Mandala Patterns",
+      "272": "Cosmic Nebulae & Galactic Art",
+      "273": "Glitch Art & Digital Distortions",
+      "274": "Collages of Unrelated Objects",
+      "275": "Surreal Morphing Portraits"
+    }
+  },
+  "24": {
+    "key": "celebrations_events",
+    "name": "Celebrations, Events, and Festivities",
+    "subcategories": {
+      "276": "Christmas & Winter Holidays",
+      "277": "Halloween & Costume Parties",
+      "278": "Carnival Parades & Mardi Gras",
+      "279": "Chinese New Year Festivals",
+      "280": "Indian Holi Color Festival",
+      "281": "Weddings & Marriage Ceremonies",
+      "282": "Cultural Parades & Street Festivals",
+      "283": "Religious Ceremonies & Rituals",
+      "284": "Birthday Parties & Celebrations",
+      "285": "New Year's Eve Fireworks",
+      "286": "Music Raves & Electronic Festivals",
+      "287": "Food & Wine Festivals",
+      "288": "Book Fairs & Literary Events",
+      "289": "Comic Cons & Pop Culture Gatherings"
+    }
+  },
+  "25": {
+    "key": "pets_domestic_animals",
+    "name": "Pets & Domestic Animals",
+    "subcategories": {
+      "290": "Dogs Playing Fetch",
+      "291": "Cats Lounging at Home",
+      "292": "Horses & Equestrian Riding",
+      "293": "Pet Birds (Parrots & Parakeets)",
+      "294": "Aquarium Fish Tanks",
+      "295": "Rabbits, Hamsters & Small Pets",
+      "296": "Vet Clinics & Pet Checkups",
+      "297": "Dog Walks & Park Outings",
+      "298": "Owners Cuddling Pets",
+      "299": "Exotic Pets (Snakes, Lizards)"
+    }
+  },
+  "26": {
+    "key": "space_astronomy",
+    "name": "Space & Astronomy",
+    "subcategories": {
+      "300": "Lunar Landscapes & Moon Missions",
+      "301": "Distant Planets & Mars Scenery",
+      "302": "Galaxies, Nebulae & Star Fields",
+      "303": "Astronauts Floating in Space",
+      "304": "Rocket Launches & Space Shuttles",
+      "305": "Space Stations & Satellite Orbits",
+      "306": "Earth from Space Views",
+      "307": "Aurora Borealis & Night Skies",
+      "308": "Solar Eclipses & Comets",
+      "309": "Observatories & Telescopes"
+    }
+  },
+  "27": {
+    "key": "underwater_marine",
+    "name": "Underwater & Marine",
+    "subcategories": {
+      "310": "Colorful Coral Reefs",
+      "311": "Deep Sea Creatures & Bioluminescence",
+      "312": "Sharks, Whales & Ocean Giants",
+      "313": "Sunken Shipwrecks",
+      "314": "Scuba Divers & Submarines",
+      "315": "Underwater Caves & Caverns",
+      "316": "Polar Undersea Life (Under Ice)",
+      "317": "Schools of Fish Shoaling",
+      "318": "Dolphins & Sea Turtles",
+      "319": "Hydrothermal Vents & Abyssal Depths",
+      "320": "Coral Restoration Projects",
+      "321": "Indigenous Fishing Practices"
+    }
+  },
+  "28": {
+    "key": "transportation_vehicles",
+    "name": "Transportation & Vehicles",
+    "subcategories": {
+      "322": "Sports Cars & Supercars",
+      "323": "Vintage Classic Cars",
+      "324": "Motorcycles & Bikers",
+      "325": "Trains & Locomotives",
+      "326": "Airplanes & Commercial Jets",
+      "327": "Helicopters & Choppers",
+      "328": "Ships, Boats & Yachts",
+      "329": "Trucks & Cargo Vehicles",
+      "330": "Bicycles & Cycling",
+      "331": "Emergency Vehicles (Police Cars, Ambulances)",
+      "332": "Vehicle Detail & Cleaning"
+    }
+  },
+  "29": {
+    "key": "disability_accessibility",
+    "name": "Disability & Accessibility",
+    "subcategories": {
+      "333": "Wheelchair Sports & Para-athletics",
+      "334": "Adaptive Technology Use",
+      "335": "Sign Language Communication",
+      "336": "Guide Dogs & Service Animals",
+      "337": "Accessible Public Spaces",
+      "338": "Neurodiverse Life & Sensory-Friendly Spaces",
+      "339": "Prosthetics & Bionic Limbs in Daily Use",
+      "340": "Inclusive Classrooms & Learning Support"
+    }
+  },
+  "30": {
+    "key": "lgbtq_culture",
+    "name": "LGBTQ+ Life & Culture",
+    "subcategories": {
+      "341": "Pride Parades & Celebrations",
+      "342": "Same-Sex Couples & Families",
+      "343": "Drag Shows & Queer Nightlife",
+      "344": "LGBTQ+ Activist Events",
+      "345": "Transgender Visibility & Gender-Affirming Care",
+      "346": "LGBTQ+ Parenting & Family Life",
+      "347": "Historical LGBTQ+ Activism"
+    }
+  },
+  "31": {
+    "key": "social_movements",
+    "name": "Social Movements & Activism",
+    "subcategories": {
+      "348": "Climate Change Protests",
+      "349": "Human Rights Marches",
+      "350": "Community Organizing",
+      "351": "Environmental Clean-Up Events",
+      "352": "Indigenous Rights Protests",
+      "353": "Disability Rights Movements",
+      "354": "Digital Activism & Online Campaigns"
+    }
+  },
+  "32": {
+    "key": "religion_spirituality",
+    "name": "Religion & Spirituality",
+    "subcategories": {
+      "355": "Pilgrimages & Sacred Journeys",
+      "356": "Meditation Retreats",
+      "357": "Interfaith Gatherings",
+      "358": "Indigenous Spiritual Ceremonies",
+      "359": "Modern Worship Spaces",
+      "360": "Youth Groups & Faith Education",
+      "361": "Funeral Rites & Mourning Practices"
+    }
+  },
+  "33": {
+    "key": "historical_reenactments",
+    "name": "Historical Reenactments & Living History",
+    "subcategories": {
+      "362": "Renaissance Fairs",
+      "363": "Civil War Reenactments",
+      "364": "Medieval Festivals",
+      "365": "Living History Museums"
+    }
+  },
+  "34": {
+    "key": "everyday_technology",
+    "name": "Everyday Technology & Digital Life",
+    "subcategories": {
+      "366": "Social Media Influencers",
+      "367": "E-Sports & Gaming Tournaments",
+      "368": "Working from a Laptop",
+      "369": "Online Dating & Virtual Relationships",
+      "370": "Media, Interviews, & Journalism",
+      "371": "Playing Video Games & Gaming Consoles",
+      "372": "Smartphone & Gadget Use"
+    }
+  },
+  "35": {
+    "key": "aging_senior_life",
+    "name": "Aging & Senior Life",
+    "subcategories": {
+      "373": "Retirement Communities",
+      "374": "Grandparents with Grandchildren",
+      "375": "Senior Fitness Classes",
+      "376": "Elderly Care Facilities",
+      "377": "Intergenerational Living",
+      "378": "End-of-Life Care & Hospice",
+      "379": "Senior Volunteerism & Community Engagement"
+    }
+  },
+  "36": {
+    "key": "environmental_climate",
+    "name": "Environmental & Climate Themes",
+    "subcategories": {
+      "380": "Urban Green Roofs & Eco-Architecture",
+      "381": "Renewable Energy Installations (Solar, Wind)",
+      "382": "Wildlife Conservation Efforts",
+      "383": "Recycling Centers & Waste Management"
+    }
+  },
+  "37": {
+    "key": "disaster_emergency",
+    "name": "Disaster & Emergency Response",
+    "subcategories": {
+      "384": "Wildfire & Flood Response",
+      "385": "Earthquake Recovery Scenes",
+      "386": "Humanitarian Aid Distribution",
+      "387": "Search & Rescue Operations"
+    }
+  },
+  "38": {
+    "key": "parenting_child_development",
+    "name": "Parenting & Child Development",
+    "subcategories": {
+      "388": "Newborn Care & Parenting",
+      "389": "School Drop-Offs & Pick-Ups",
+      "390": "Children's Birthday Parties",
+      "391": "Daycare & Early Learning Centers",
+      "392": "Children Playing & Recreation",
+      "393": "Parent Teaching a Child"
+    }
+  },
+  "39": {
+    "key": "economy_labor",
+    "name": "Economy & Labor",
+    "subcategories": {
+      "394": "Gig Workers & Delivery Riders",
+      "395": "Street Vendors & Informal Economy",
+      "396": "Factory Protests & Labor Strikes"
+    }
+  },
+  "40": {
+    "key": "politics_governance",
+    "name": "Politics & Governance",
+    "subcategories": {
+      "397": "Election Campaign Rallies",
+      "398": "Government Offices & Public Servants",
+      "399": "Political Debates & Town Halls"
+    }
+  },
+  "41": {
+    "key": "crime_justice",
+    "name": "Crime & Justice System",
+    "subcategories": {
+      "400": "Forensic Labs & Evidence Analysis",
+      "401": "Prison Facility & System",
+      "402": "Surveillance & Policing Technology",
+      "403": "Law Enforcement & Police"
+    }
+  },
+  "42": {
+    "key": "technology_ethics",
+    "name": "Technology Ethics & Dystopia",
+    "subcategories": {
+      "404": "AI Ethics Panels & Policy Debates",
+      "405": "Data Surveillance Cities",
+      "406": "Social Credit Systems & Behavior Scoring"
+    }
+  },
+  "43": {
+    "key": "environmental_justice",
+    "name": "Environmental Justice",
+    "subcategories": {
+      "407": "Climate Refugees & Displacement",
+      "408": "Industrial Pollution & Protest",
+      "409": "Community Gardens & Urban Farming Initiatives"
+    }
+  },
+  "44": {
+    "key": "jobs_workers",
+    "name": "Jobs & Workers",
+    "subcategories": {
+      "410": "Retail Worker",
+      "411": "Bike Repair",
+      "412": "Car Mechanic",
+      "413": "Maintenance worker",
+      "414": "Realtor/Real Estate Agent",
+      "415": "Doctor & Nurses",
+      "416": "Hotel and House Cleaning"
+    }
+  },
+  "45": {
+    "key": "arts_creativity",
+    "name": "Arts & Creativity",
+    "subcategories": {
+      "417": "Photography & Cinematography",
+      "418": "Home Decor & DIY Crafts",
+      "419": "Florists & Floral Arrangements",
+      "420": "Visual Arts (Painting, Drawing, Coloring)",
+      "421": "Pottery & Ceramics",
+      "422": "Knitting and sewing"
+    }
+  }
+}

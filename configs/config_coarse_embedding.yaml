@@ -1,0 +1,27 @@
+model:
+  type: "embedding"
+  num_classes: 45
+  encoder: "all-MiniLM-L6-v2"  # Fast, 384-dim embeddings, 14ms per text
+  classifier: "logistic_regression"  # Options: logistic_regression, svm
+
+classifier_params:
+  max_iter: 1000
+  C: 1.0
+  class_weight: "balanced"
+
+embedding:
+  batch_size: 32
+  cache_embeddings: true  # Cache for faster retraining
+
+data:
+  train_path: "data/train_combined.csv"
+  valid_path: "data/valid_combined.csv"
+  text_column: "caption"
+  label_column: "category_id"
+
+training:
+  checkpoint_path: "models/model_coarse_embedding.pkl"
+
+inference:
+  confidence_threshold: 0.70
+

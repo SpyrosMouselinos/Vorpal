@@ -1,0 +1,182 @@
+{
+  "1": {
+    "key": "industry_manufacturing",
+    "name": "Industry & Manufacturing"
+  },
+  "2": {
+    "key": "nature_wildlife",
+    "name": "Nature & Wildlife"
+  },
+  "3": {
+    "key": "scifi_futuristic",
+    "name": "Science Fiction & Futuristic"
+  },
+  "4": {
+    "key": "fantasy_mythology",
+    "name": "Fantasy & Mythology"
+  },
+  "5": {
+    "key": "horror_supernatural",
+    "name": "Horror & Supernatural"
+  },
+  "6": {
+    "key": "action_adventure",
+    "name": "Action & Adventure"
+  },
+  "7": {
+    "key": "mystery_crime",
+    "name": "Mystery & Crime"
+  },
+  "8": {
+    "key": "urban_city_life",
+    "name": "Urban & City Life"
+  },
+  "9": {
+    "key": "rural_agriculture",
+    "name": "Rural Life & Agriculture"
+  },
+  "10": {
+    "key": "architecture_landmarks",
+    "name": "Architecture & Landmarks"
+  },
+  "11": {
+    "key": "travel_exploration",
+    "name": "Travel & Exploration"
+  },
+  "12": {
+    "key": "people_daily_life",
+    "name": "People & Daily Life"
+  },
+  "13": {
+    "key": "business_corporate",
+    "name": "Business & Corporate"
+  },
+  "14": {
+    "key": "medical_healthcare",
+    "name": "Medical & Healthcare"
+  },
+  "15": {
+    "key": "education_learning",
+    "name": "Education & Learning"
+  },
+  "16": {
+    "key": "sports_fitness",
+    "name": "Sports & Fitness"
+  },
+  "17": {
+    "key": "food_culinary",
+    "name": "Food & Culinary"
+  },
+  "18": {
+    "key": "fashion_style",
+    "name": "Fashion & Style"
+  },
+  "19": {
+    "key": "entertainment_music",
+    "name": "Entertainment & Music"
+  },
+  "20": {
+    "key": "technology_computing",
+    "name": "Technology & Computing"
+  },
+  "21": {
+    "key": "war_military",
+    "name": "War & Military"
+  },
+  "22": {
+    "key": "historical_period",
+    "name": "Historical & Period"
+  },
+  "23": {
+    "key": "abstract_surreal",
+    "name": "Abstract & Surreal"
+  },
+  "24": {
+    "key": "celebrations_events",
+    "name": "Celebrations, Events, and Festivities"
+  },
+  "25": {
+    "key": "pets_domestic_animals",
+    "name": "Pets & Domestic Animals"
+  },
+  "26": {
+    "key": "space_astronomy",
+    "name": "Space & Astronomy"
+  },
+  "27": {
+    "key": "underwater_marine",
+    "name": "Underwater & Marine"
+  },
+  "28": {
+    "key": "transportation_vehicles",
+    "name": "Transportation & Vehicles"
+  },
+  "29": {
+    "key": "disability_accessibility",
+    "name": "Disability & Accessibility"
+  },
+  "30": {
+    "key": "lgbtq_culture",
+    "name": "LGBTQ+ Life & Culture"
+  },
+  "31": {
+    "key": "social_movements",
+    "name": "Social Movements & Activism"
+  },
+  "32": {
+    "key": "religion_spirituality",
+    "name": "Religion & Spirituality"
+  },
+  "33": {
+    "key": "historical_reenactments",
+    "name": "Historical Reenactments & Living History"
+  },
+  "34": {
+    "key": "everyday_technology",
+    "name": "Everyday Technology & Digital Life"
+  },
+  "35": {
+    "key": "aging_senior_life",
+    "name": "Aging & Senior Life"
+  },
+  "36": {
+    "key": "environmental_climate",
+    "name": "Environmental & Climate Themes"
+  },
+  "37": {
+    "key": "disaster_emergency",
+    "name": "Disaster & Emergency Response"
+  },
+  "38": {
+    "key": "parenting_child_development",
+    "name": "Parenting & Child Development"
+  },
+  "39": {
+    "key": "economy_labor",
+    "name": "Economy & Labor"
+  },
+  "40": {
+    "key": "politics_governance",
+    "name": "Politics & Governance"
+  },
+  "41": {
+    "key": "crime_justice",
+    "name": "Crime & Justice System"
+  },
+  "42": {
+    "key": "technology_ethics",
+    "name": "Technology Ethics & Dystopia"
+  },
+  "43": {
+    "key": "environmental_justice",
+    "name": "Environmental Justice"
+  },
+  "44": {
+    "key": "jobs_workers",
+    "name": "Jobs & Workers"
+  },
+  "45": {
+    "key": "arts_creativity",
+    "name": "Arts & Creativity"
+  }
+}
