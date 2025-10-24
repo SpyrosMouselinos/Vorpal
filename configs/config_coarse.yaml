@@ -1,21 +1,26 @@
 model:
+  type: "embedding"
   num_classes: 45
-  namespace: t
-vw:
-  bits: 24
-  learning_rate: 0.5
-  l2: 1.0e-07
-  ngram: 2
-  loss_function: logistic
-  probabilities: true
+  encoder: "BAAI/bge-large-en-v1.5"  # Best performing: 60.35% accuracy
+  classifier: "svm"  # Best classifier for this task
+
+classifier_params:
+  C: 1.0
+  max_iter: 2000
+  class_weight: "balanced"
+
+embedding:
+  batch_size: 32
+  cache_embeddings: true
+
 data:
-  train_path: data/train_combined.csv
-  valid_path: data/valid_combined.csv
-  text_column: caption
-  label_column: category_id
+  train_path: "data/train_combined.csv"
+  valid_path: "data/valid_combined.csv"
+  text_column: "caption"
+  label_column: "category_id"
+
 training:
-  log_every: 200000
-  checkpoint_path: models/model_coarse.vwbin
-  save_labels: false
+  checkpoint_path: "models/model_coarse.pkl"
+
 inference:
-  confidence_threshold: 0.85
+  confidence_threshold: 0.70

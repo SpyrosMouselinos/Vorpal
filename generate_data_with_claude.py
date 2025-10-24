@@ -30,8 +30,8 @@ except ImportError:
 # Configuration
 CAPTIONS_PER_SUBCATEGORY = 20
 EXTRA_EVAL_SAMPLES = 1000
-OUTPUT_TRAIN = "data/train_generated.csv"
-OUTPUT_VALID = "data/valid_generated.csv"
+OUTPUT_TRAIN = "data/train_claude.csv"
+OUTPUT_VALID = "data/valid_claude.csv"
 OUTPUT_RAW_RESPONSES = "data/generation_log.jsonl"  # Save raw API responses
 TAXONOMY_PATH = "data/taxonomy.json"
 API_RETRY_DELAY = 2  # seconds between retries

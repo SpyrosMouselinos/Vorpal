@@ -1,21 +1,26 @@
 model:
+  type: "embedding"
   num_classes: 422
-  namespace: t
-vw:
-  bits: 25
-  learning_rate: 0.3
-  l2: 1.0e-07
-  ngram: 2
-  loss_function: logistic
-  probabilities: true
+  encoder: "BAAI/bge-large-en-v1.5"  # Same encoder for consistency
+  classifier: "svm"  # Best classifier
+
+classifier_params:
+  C: 0.5  # Stronger regularization for 422 classes
+  max_iter: 3000
+  class_weight: "balanced"
+
+embedding:
+  batch_size: 32
+  cache_embeddings: true
+
 data:
-  train_path: data/train_combined.csv
-  valid_path: data/valid_combined.csv
-  text_column: caption
-  label_column: subcategory_id
+  train_path: "data/train_combined.csv"
+  valid_path: "data/valid_combined.csv"
+  text_column: "caption"
+  label_column: "subcategory_id"
+
 training:
-  log_every: 200000
-  checkpoint_path: models/model_fine.vwbin
-  save_labels: false
+  checkpoint_path: "models/model_fine.pkl"
+
 inference:
-  confidence_threshold: 0.8
+  confidence_threshold: 0.60
